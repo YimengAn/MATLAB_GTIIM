@@ -1,7 +1,7 @@
 % Program Name: Dynamic Time Warping model (DTW)
 % Data Input: Time series sequences
 % Result Output: DTW Distance
-% Make sure to define the 'GetMin' and 'GetMinIndex' functions for your code to run successfully.
+% Notice: Make sure to define the 'GetMin' and 'GetMinIndex' functions for your code to run successfully.
 
 clc;
 clear all;
